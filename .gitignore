@@ -1,0 +1,4 @@
+.bundle/
+.ssh/
+!.ssh/config
+log/
